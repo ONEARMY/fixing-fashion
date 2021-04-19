@@ -701,6 +701,10 @@ p {
 .button-collection-item.gg {
   width: auto;
   margin-top: -60px;
+  background-color: transparent;
+}
+
+.button-collection-item.gg.hoome {
   background-color: #fff;
 }
 
