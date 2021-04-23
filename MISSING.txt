@@ -1,0 +1,5 @@
+The following files failed to download during site export. Please check them in the designer assets view (images) or dashboard (fonts).
+
+images/30.jpg
+images/36.jpg
+images/4.-Detailed-Shot_1.jpg
